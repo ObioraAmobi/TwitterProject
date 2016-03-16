@@ -2,12 +2,12 @@ from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 
-CONSUMER_KEY = '#####'
-CONSUMER_SECRET = '#####'
-OAUTH_TOKEN = '#####'
-OAUTH_TOKEN_SECRET = '#####'
+CONSUMER_KEY = '####'
+CONSUMER_SECRET = '####'
+OAUTH_TOKEN = '####'
+OAUTH_TOKEN_SECRET = '####'
 
-keyword_list = ['Champions League', 'UEFA', 'Athletico', 'PSV'] #track list
+keyword_list = ['Champions League', 'UEFA', 'Atletico', 'PSV'] #track list
 
 class MyStreamListener(StreamListener):
 
