@@ -2,10 +2,10 @@ from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 
-CONSUMER_KEY = 'JECzrghiBaSuECsyKSeROTI6O'
-CONSUMER_SECRET = 'L4FUnYLofKZeYay1f56WrHCuqXbf3K7JqUpOYiqgyQzsuxy3vX'
-OAUTH_TOKEN = '709340795975954432-9PSTdvZdYTRpio9ZUPBqCeBTaNMQGAh'
-OAUTH_TOKEN_SECRET = 'Yw9NCmSxkLkeWOTzakd0nacmMGrcu6ypWaNwwVa0kPwEZ'
+CONSUMER_KEY = '######'
+CONSUMER_SECRET = '######'
+OAUTH_TOKEN = '######'
+OAUTH_TOKEN_SECRET = '######'
 
 keyword_list = ['hilary clinton', 'donald trump', 'president'] #track list
 
